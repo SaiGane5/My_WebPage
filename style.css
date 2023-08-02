@@ -1,0 +1,65 @@
+.intro{
+    text-align: center;
+    background-color: #6527BE;
+    color: #9681EB;
+    margin: 0;
+    padding-top: 100px;
+    display: block;
+    height: 100vh;
+}
+.edu{
+    background-color: #9681EB;
+    color: #45CFDD;
+    text-align: center;
+    padding: 50px;
+    height: 100vh;
+}
+.foot{
+    background-color: #A7EDE7;
+    color: #6527BE;
+    text-align: center;
+    text-decoration: underline wavy;
+    line-height: 50px;
+
+}
+.foot h2{
+    padding-top: 30px;
+}
+.foot > a{
+    color: #6527BE;
+    text-decoration: none;
+}
+.edu h2{
+    text-decoration: underline wavy;
+}
+.heading{
+    font-family: 'Bodoni Moda', serif;
+    font-weight: 600;
+    padding: 25px;
+    font-size: 50px;
+    text-decoration: underline wavy;
+}
+#description{
+    font-family: 'Bodoni Moda', serif;
+    letter-spacing: 12.5px;
+    font-size: large;
+    font-weight: 900;
+}
+.sep {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 15px auto;
+  }
+.profile{
+    border-radius: 50px;
+    margin-bottom: 50px;
+    border: 10px solid #9681EB;
+
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    background-color:#A7EDE7;
+    padding: 10px;
+}
